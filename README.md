@@ -1,20 +1,31 @@
-# cloud-computing-course
-# Laboratory 03 – Multi-Cloud Explorer
+Cloud Computing Course Repository
+A collection of activities, outputs, and learning resources for Cloud Computing.
 
-## Mission 3: Become a Multi-Cloud Explorer
+📌 About This Repository
+This repository serves as my workspace for all course requirements, including:
 
-**Student:** Cristopher E. ODuya  
-**Course:** BSIT 
-**Laboratory Activity:** 03
+Class notes and summaries
+Laboratory activities and exercises
+Mini-projects
+Reflection papers
+👤 Student Information
+Name: Cristopher E. Oduya
 
-## Mission Overview
+Course/Section: BSIT 4K
 
-This laboratory activity explores three major cloud computing platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). The activity focuses on comparing their services, analyzing business requirements, and recommending suitable cloud solutions.
+Instructor: Jenkielyn Torres
 
-## Objectives
+School Year: 2026–2027
 
-- Explore AWS, Microsoft Azure, and Google Cloud Platform.
-- Identify the core services offered by each provider.
-- Compare cloud services across different providers.
-- Recommend appropriate cloud platforms for different business scenarios.
-- Use Linux commands through KillerCoda.
+Cloud Computing Basics
+
+Service Models (IaaS, PaaS, and SaaS)
+
+Deployment Models (Public, Private, Hybrid, and Community)
+
+Version Control with Git and GitHub
+
+Cloud Infrastructure Management
+
+🎯 Course Goal
+This repository allows me to organize all of my activities, projects, and notes while learning the fundamentals of cloud computing.
